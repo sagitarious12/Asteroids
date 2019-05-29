@@ -1,0 +1,27 @@
+
+@font-face {
+  font-family: 'Arcade';
+  src: url('./assets/ARCADECLASSIC.TTF');
+}
+
+li {
+  margin-top: 15px;
+  margin-left: -35px;
+  font-family: 'Arcade';
+  font-size: 21px;
+  word-spacing: 4px;
+    }
+
+body{
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  background: black;
+}
+
+.canvas{
+  margin: auto;
+  margin-top: 0px;
+  background: black;
+  border: 2px solid white;
+}
